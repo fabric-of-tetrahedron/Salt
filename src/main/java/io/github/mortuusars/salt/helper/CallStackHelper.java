@@ -2,10 +2,7 @@ package io.github.mortuusars.salt.helper;
 
 import com.mojang.logging.LogUtils;
 
-import java.util.List;
 import java.util.function.Predicate;
-import java.util.logging.Logger;
-import java.util.stream.Collectors;
 
 public class CallStackHelper {
 //    public static final Predicate<String> RANDOM_TICK = s -> s.equals("randomTick");

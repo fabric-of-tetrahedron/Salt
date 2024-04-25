@@ -3,7 +3,6 @@ package io.github.mortuusars.salt.mixin;
 import io.github.mortuusars.salt.configuration.Configuration;
 import io.github.mortuusars.salt.helper.Heater;
 import net.minecraft.core.BlockPos;
-import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.enchantment.EnchantmentHelper;
