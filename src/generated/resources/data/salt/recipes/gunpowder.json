@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "fabric:salts"
+    },
+    {
+      "tag": "fabric:salts"
+    },
+    {
+      "tag": "minecraft:coals"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:gunpowder"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    "salt:rock_salt_ore",
+    "salt:deepslate_rock_salt_ore",
+    "salt:raw_rock_salt_block",
+    "salt:salt_cluster",
+    "salt:large_salt_bud",
+    "salt:medium_salt_bud",
+    "salt:small_salt_bud",
+    "salt:salt_cauldron"
+  ]
+}

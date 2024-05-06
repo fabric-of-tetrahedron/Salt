@@ -1,0 +1,6 @@
+accessWidener	v1	named
+
+accessible method net/minecraft/world/level/block/CauldronBlock shouldHandlePrecipitation (Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/biome/Biome$Precipitation;)Z
+
+accessible field net/minecraft/world/level/block/state/BlockBehaviour isRandomlyTicking Z
+mutable field net/minecraft/world/level/block/state/BlockBehaviour isRandomlyTicking Z

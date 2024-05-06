@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "io.github.mortuusars.salt.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlockBehaviourMixin",
+    "BlockMixin",
+    "FoodDataMixin",
+    "LayeredCauldronBlockMixin",
+    "WaterCauldronMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
